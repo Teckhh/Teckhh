@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on my sole trader business [Zeron Developments](https://zeron.dev/).
 
-- 🌱 I’m currently learning about **Cyber-Security & Penetration-Testing**.
+- 🌱 I’m currently learning about **Graphic Design Automation**.
 
 - 📫 Contact me via email **contact@owenc.anonaddy.com**
 
