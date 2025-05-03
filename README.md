@@ -4,12 +4,12 @@
 - 🖥️ I've been developing with **C#** for over **4 years**.
 
 - 🔭 I’m currently working on my sole trader business [Zeron Developments](https://zeron.dev/).
+  
+- 📲 Doing quite a bit behind the scenes for [@HydrateRP](https://github.com/HydrateRP)
 
 - 🌱 I’m currently in love with **automation**.
 
 - 📫 Contact me via email **contact@owenc.anonaddy.com**
-
-- 📲 Doing quite a bit behind the scenes for [@HydrateRP](https://github.com/HydrateRP)
 
 <h3 align="left">Fluent Languages:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a> <a href="https://www.json.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="lua" width="40" height="40"/></a>
