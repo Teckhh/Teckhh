@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on my sole trader business [Zeron Developments](https://zeron.dev/).
   
-- 📲 Doing quite a bit behind the scenes for [@HydrateRP](https://github.com/HydrateRP).
+- 📲 Doing quite a bit behind the scenes for [HydrateRP](https://hydraterp.com/).
 
 - 🌱 I’m currently in love with **automation**.
 
