@@ -8,7 +8,7 @@
 
 ### 💻 About Me
 
-- 🖥️ Experienced **C# Developer** with **4+ years** of hands-on expertise.
+- 🖥️ Experienced **C# Developer** with **5+ years** of hands-on expertise.
 - 🔭 Providing FiveM assets to thousands of clients through [Zeron Developments](https://zeron.dev/)
 - 📲 Contributing behind the scenes at [HydrateRP](https://hydraterp.com/)
 - 🌱 Enthusiastic about **automation**, **optimizing workflows**, and **enhancing efficiency**.
